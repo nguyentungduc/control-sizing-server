@@ -1,0 +1,13 @@
+export const ACTION_FETCHING_DATA = "FETCHING_DATA";
+export const ACTION_ADD_DATA = "ADD_DATA";
+export const ACTION_SUB_DATA = "SUB_DATA";
+export const ACTION_UPDATE_DATA = "UPDATE_DATA";
+export const ACTION_DELETE_ITEM = "DELETE_ITEM"
+
+export const actionTypes = {
+    ACTION_FETCHING_DATA,
+    ACTION_ADD_DATA,
+    ACTION_SUB_DATA,
+    ACTION_UPDATE_DATA,
+    ACTION_DELETE_ITEM,
+}
